@@ -21,4 +21,5 @@
 
 ### Create Dashboard
 ![screenshot](./screenshots/grafana_dashboard.png)
+![screenshot](./screenshots/grafana_dashboard_setting.png)
 
